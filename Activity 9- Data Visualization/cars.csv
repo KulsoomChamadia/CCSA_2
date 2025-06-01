@@ -1,0 +1,9 @@
+Brand,Model,Time (s),Speed (mph),Horsepower,ColorCode,Images,CPU (%),RAM (%),GPU (%),Power,Acceleration,Capacity,Angle,Sound
+Lamborghini,Aventador SVJ,2.8,217,770,#FF0000,aventador.png,19,50,86,1800,3200,6498,46,aventador.mp3
+Bugatti,Chiron Super Sport,2.4,304,1578,#0000FF,chiron.png,24,60,89,2000,4000,7993,42,chiron.mp3
+Chevrolet,Camaro ZL1,3.5,198,650,#00FF00,camaro.png,17,48,82,1600,2500,6162,50,camaro.mp3
+Ford,Mustang GT,4.2,155,460,#FFFF00,mustang.png,15,45,75,1200,1900,4951,36,mustang.mp3
+Ferrari,488 Pista,2.85,211,710,#FF4500,488pista.png,21,55,88,1700,3100,3902,44,488pista.mp3
+Porsche,911 GT3 RS,3.0,198,520,#800080,gt3rs.png,20,52,83,1550,2700,3996,40,gt3rs.mp3
+Nissan,GT-R Nismo,2.9,196,600,#008080,gtrnismo.png,18,49,79,1500,2600,3799,38,gtrnismo.mp3
+Audi,R8 V10,3.2,205,602,#FFA500,audir8.png,19,51,81,1580,2650,5204,41,audir8.mp3
